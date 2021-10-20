@@ -1,25 +1,25 @@
 [
     {
         "key": "1",
-        "Name": "Dr.Andrew Bert",
+        "Name": "Dr Andrew Bert",
         "postName": "Cardiac Medicine And Diabetes Specialist Clinical And International Cardiologist",
         "img": "https://i.ibb.co/CmrPx8q/Portrait-of-smiling-doctor-looking-at-camera-on-background-of-his-working-colleagues.jpg"
     },
      {
         "key": "2",
-         "Name": "Dr.Jacqueline Chang",
+         "Name": "Dr Jacqueline Chang",
         "postName": " ENT, Pediatrics",
         "img": "https://i.ibb.co/D1nYjFT/pleased-young-female-doctor-wearing-medical-robe-and-stethoscope-around-neck-standing-with-closed-po.jpg"
     },
      {
         "key": "3",
-         "Name": "Dr.Jade Joe",
+         "Name": "Dr Jade Joe",
         "postName": "Cardiology, General Surgery",
         "img": "https://i.ibb.co/514BswF/smiling-young-female-doctor-wearing-medical-robe-with-stethoscope-spreading-hand-isolated-on-green-b.jpg"
     },
      {
         "key": "4",
-         "Name": "Dr.John Doe",
+         "Name": "Dr John Doe",
         "postName": "Diabetes, Thyroid, Hormones Specialist",
         "img": "https://i.ibb.co/NW29Fp4/Portrait-of-a-smiling-male-doctor-dressed-in-uniform-with-stethoscope-standing-and-pointing-finger-a.jpg"
     }
